@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pg8000
+google-generativeai
+pyjwt
+passlib[bcrypt]
+langchain
+langchain-google-genai
+sympy
+matplotlib
+pint
+numexpr
+langchain-classic
